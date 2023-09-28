@@ -52,27 +52,27 @@ This will start the development server, and you can access the application in yo
 
 ## All Category
 
-![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/Output/output1.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/1.png?raw=true)
 
 ## Category 1
 
-![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/Output/output2.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/2.png?raw=true)
  
 ## Category 2
 
-![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/Output/output3.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/3.png?raw=true)
 
 ## Category 3
 
-![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/Output/output4.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/4.png?raw=true)
 
 ## Category 4
 
-![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/Output/output5.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/5.png?raw=true)
 
 ## Category 5
 
-![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/Output/output6.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Photo-Gallery-in-ReactJs/blob/master/public/6.png?raw=true)
 
 ## Configuration
 
